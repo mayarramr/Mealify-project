@@ -1,0 +1,71 @@
+@media screen and (max-width:768px){
+    .nav-list{
+        width: 40%;
+    }
+    
+    .header{
+        flex-wrap: wrap-reverse;
+        justify-content: space-around;
+    }
+    
+    .left-section {
+       width: 90%;
+       text-align: center;
+   }
+
+   .main-text{
+    padding-top: 10%;
+   }
+
+   .buttons{
+    justify-content: space-around;
+    width: 90%;
+   }
+
+   .right-section{
+    width: 100%;
+    margin-top: 5%;
+   }
+
+   .chefs{
+    display: block;
+   }
+
+   .masonry{
+    column-count: 1;
+   }
+
+   .contact-us{
+    display: block;
+   }
+
+   .location{
+    width: 100%;
+   }
+
+   .inputs-row1{
+    flex-wrap: wrap;
+   }
+
+   .inputs-row1 input{
+    width: 100%;
+   }
+
+   .footer-contents{
+    display: block;
+   }
+
+   .first-section{
+    width: 100%;
+   }
+
+   .second-section{
+    width: 100%;
+    margin-top: 40px;
+   }
+
+   .third-section{
+    width: 100%;
+    margin-top: 30px;
+   }
+}

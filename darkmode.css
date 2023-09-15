@@ -1,0 +1,14 @@
+:root:has(.theme input:checked){
+    --primary-color: #C17D1F;
+    --hover-color:#D68C23;
+    --bgcolor: #252525;
+    --fcolor: #FFFFFF;
+    --normalcolor:#171717;
+    --normalcolor1:#202020;
+    --contact: #0D0D0D;
+    --main-text: #FFFFFF;
+    --p-color:#9F9F9F;
+}
+
+
+  
